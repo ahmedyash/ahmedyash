@@ -9,4 +9,5 @@ PrestaShop developer with 10+ years of experience, working with merchants and ag
 - Fixing errors after updates
 
 **Website:** https://prestashopexpert.com
+
 **Free tool:** [PrestaShop Speed Test](https://prestashopexpert.com/prestashop-speed-test/)
